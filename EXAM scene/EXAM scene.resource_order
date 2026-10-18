@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Font1","order":12,"path":"fonts/Font1/Font1.yy",},
+    {"name":"obj_dialogue","order":11,"path":"objects/obj_dialogue/obj_dialogue.yy",},
+    {"name":"obj_exam_paper","order":1,"path":"objects/obj_exam_paper/obj_exam_paper.yy",},
+    {"name":"obj_outside_cutscene","order":6,"path":"objects/obj_outside_cutscene/obj_outside_cutscene.yy",},
+    {"name":"rm_outside","order":5,"path":"rooms/rm_outside/rm_outside.yy",},
+    {"name":"create_dialogue","order":10,"path":"scripts/create_dialogue/create_dialogue.yy",},
+    {"name":"spr_box","order":13,"path":"sprites/spr_box/spr_box.yy",},
+    {"name":"spr_chris_idle","order":9,"path":"sprites/spr_chris_idle/spr_chris_idle.yy",},
+    {"name":"spr_chris_walk1","order":3,"path":"sprites/spr_chris_walk1/spr_chris_walk1.yy",},
+    {"name":"spr_chris_walk2","order":8,"path":"sprites/spr_chris_walk2/spr_chris_walk2.yy",},
+    {"name":"spr_harry_idle","order":2,"path":"sprites/spr_harry_idle/spr_harry_idle.yy",},
+    {"name":"spr_lyndon_idle","order":7,"path":"sprites/spr_lyndon_idle/spr_lyndon_idle.yy",},
+    {"name":"spr_table_texture","order":4,"path":"sprites/spr_table_texture/spr_table_texture.yy",},
+    {"name":"Sprite10","order":16,"path":"sprites/Sprite10/Sprite10.yy",},
+    {"name":"Sprite8","order":14,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"Sprite9","order":15,"path":"sprites/Sprite9/Sprite9.yy",},
+  ],
+}
